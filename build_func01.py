@@ -8,5 +8,5 @@ def main(number):
         int: the absolute value of a "number"
     """
     return (int(number))
-x=main(8)
+x=main((int)())
 print (x)
